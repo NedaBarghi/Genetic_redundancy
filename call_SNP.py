@@ -1,9 +1,5 @@
 import argparse
 from argparse import RawTextHelpFormatter
-#import sys
-#import re
-#import os
-#import copy
 
 # Author: Neda Barghi
 
@@ -37,4 +33,4 @@ for line in InputFile:
     	if len([i for i in sum_allele_freq_base if i > 0]) >= 2:
 			OutputFile.write(line+'\n')            
 OutputFile.flush()
-OutputFile.close() 
+InputFile.close() 
