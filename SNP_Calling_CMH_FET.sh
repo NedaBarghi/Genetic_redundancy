@@ -99,5 +99,5 @@ perl /popoolation2/fisher-test.pl --input F0F60_Rep9.sync --output F0F60_Rep9.sy
 
 perl /popoolation2/fisher-test.pl --input F0F60_Rep10.sync --output F0F60_Rep10.sync.fet --min-count 5 --min-coverage 14 --max-coverage 240
 
-The final SNP set, -log10-transformed p-values of CMH test and -log10-transformed p-values of FETs are provided in F0-F60SNP_CMH_FET_blockID.sync.zip file (Dryad Digital Repository: https://doi.org/10.5061/dryad.rr137kn) columns 1 to 84.
+#The final SNP set, -log10-transformed p-values of CMH test and -log10-transformed p-values of FETs are provided in F0-F60SNP_CMH_FET_blockID.sync.zip file (Dryad Digital Repository: https://doi.org/10.5061/dryad.rr137kn) columns 1 to 84.
 
