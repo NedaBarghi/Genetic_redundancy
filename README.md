@@ -1,6 +1,6 @@
-# Genetic Redundancy fuels polygenic adaptation in Drosophila
+# Genetic Redundancy
 
-This folder contains all the scripts needed to reproduce the results in Barghi N, Tobler R, Nolte V, Jaksic AM, Mallard F, Otte KA, Dolezal M, Taus T, Kofler R & Schlötterer C. (2019) PLoS Biology.
+This folder contains all the scripts needed to reproduce the results in Barghi N, Tobler R, Nolte V, Jaksic AM, Mallard F, Otte KA, Dolezal M, Taus T, Kofler R & Schlötterer C. (2019). Genetic Redundancy fuels polygenic adaptation in Drosophila. PLoS Biology.
 
 ## SNP_Calling_CMH_FET.sh
 
