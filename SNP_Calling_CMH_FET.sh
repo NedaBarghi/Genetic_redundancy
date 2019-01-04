@@ -52,9 +52,9 @@ perl /popoolation2/cmh-test.pl --input F0F60SNP.sync --output F0F60SNP.sync.cmh 
 
 #F0F60SNP.sync.cmh is already filtered for low and high coverage SNPs and is the final SNP set. 
 
-#############
-#FET test#
-#############
+#####################
+#Fisher's exact test#
+#####################
 
 #7. Run Fisher's exact test (FET) on all 10 hot-evolved replicates 
 #7a. Separate F0 and F60 samples for each replicate in a separate file
