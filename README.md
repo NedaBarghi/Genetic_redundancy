@@ -29,6 +29,17 @@ FDR_CMH.R
 neutral_simulation_FET.R
 FDR_FET.R
 ```
+## Phenotypic analysis
+
+Statistical analysis of phenotypic data are provided in the scripts:
+
+```
+fecundity_analysis.R
+metabolism_analysis.R
+bodyfat_analysis.R
+```
+The phenotypic data are available from the Dryad Digital Repository: https://doi.org/10.5061/dryad.rr137kn.  
+
 
 ## Authors
 Neda Barghi
