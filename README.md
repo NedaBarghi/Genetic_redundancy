@@ -12,7 +12,7 @@ call_SNP.py
 
 ## estimate_Ne.sh
 
-Command lines needed for estimation on effective population size (Ne). The provided scripts for this step:
+Command lines needed for estimation of effective population size (Ne). The provided scripts for this step:
 
 ```
 compute_AF_cov_Ne.py
